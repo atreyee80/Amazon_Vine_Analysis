@@ -21,6 +21,8 @@ In this project I choose the dataset of "Amazon_reviews_us_Health_Personal_Care"
 
 
 . How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+![](Five_star_vine_yes.png?raw=true)
+![](Five_star_vine_no.png?raw=true)
 
 . What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
