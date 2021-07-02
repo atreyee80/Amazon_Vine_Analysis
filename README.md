@@ -31,5 +31,6 @@ In this project we need to analyze product reviews if there is any bias or not, 
 
 ## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 There is no bias in the vine program.The percentage of vine reviews with 5 stars is 44% and the percentage of non-vine reviews with 5 stars is 62%.
+Vine resluts for star rating 4 shows that 
 ![](Five_star_vine.png?raw=true)
 ![](Percentage_four_star_vine.png?raw=true)
